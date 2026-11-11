@@ -1,0 +1,35 @@
+{
+  "chat_id": "-1001234567890",
+  "icons": [
+    {
+      "topic_id": 101,
+      "design_id": "research",
+      "kind": "thematic",
+      "asset": "research.svg",
+      "provenance": {
+        "source": "Original synthetic demo artwork in this repository",
+        "rights": "MIT"
+      }
+    },
+    {
+      "topic_id": 102,
+      "design_id": "releases",
+      "kind": "thematic",
+      "asset": "releases.svg",
+      "provenance": {
+        "source": "Original synthetic demo artwork in this repository",
+        "rights": "MIT"
+      }
+    },
+    {
+      "topic_id": 103,
+      "design_id": "archive",
+      "kind": "thematic",
+      "asset": "archive.svg",
+      "provenance": {
+        "source": "Original synthetic demo artwork in this repository",
+        "rights": "MIT"
+      }
+    }
+  ]
+}

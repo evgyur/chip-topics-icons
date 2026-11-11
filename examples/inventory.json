@@ -1,0 +1,42 @@
+{
+  "chat_id": "-1001234567890",
+  "provider_count": 4,
+  "topics": [
+    {
+      "id": 1,
+      "title": "General",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "0",
+      "closed": false,
+      "hidden": false,
+      "pinned": false
+    },
+    {
+      "id": 101,
+      "title": "Research",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "0",
+      "closed": false,
+      "hidden": false,
+      "pinned": true
+    },
+    {
+      "id": 102,
+      "title": "Releases",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "0",
+      "closed": false,
+      "hidden": false,
+      "pinned": false
+    },
+    {
+      "id": 103,
+      "title": "Archive",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "0",
+      "closed": true,
+      "hidden": false,
+      "pinned": false
+    }
+  ]
+}
